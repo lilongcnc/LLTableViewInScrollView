@@ -10,11 +10,17 @@
 		8B9EF7521CBBEB6400B5590F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B9EF7511CBBEB6400B5590F /* main.m */; };
 		8B9EF7551CBBEB6400B5590F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B9EF7541CBBEB6400B5590F /* AppDelegate.m */; };
 		8B9EF7581CBBEB6400B5590F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B9EF7571CBBEB6400B5590F /* ViewController.m */; };
-		8B9EF75B1CBBEB6400B5590F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B9EF7591CBBEB6400B5590F /* Main.storyboard */; };
 		8B9EF75D1CBBEB6400B5590F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B9EF75C1CBBEB6400B5590F /* Assets.xcassets */; };
 		8B9EF7601CBBEB6400B5590F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B9EF75E1CBBEB6400B5590F /* LaunchScreen.storyboard */; };
 		8B9EF76B1CBBEB6400B5590F /* LLHomeShowViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B9EF76A1CBBEB6400B5590F /* LLHomeShowViewTests.m */; };
 		8B9EF7761CBBEB6400B5590F /* LLHomeShowViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B9EF7751CBBEB6400B5590F /* LLHomeShowViewUITests.m */; };
+		8B9EF78B1CBBEBD100B5590F /* UIView+Frame.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B9EF78A1CBBEBD100B5590F /* UIView+Frame.m */; };
+		8B9EF78F1CBBEBDD00B5590F /* MyHeadView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B9EF78D1CBBEBDD00B5590F /* MyHeadView.m */; };
+		8B9EF7901CBBEBDD00B5590F /* MyHeadView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8B9EF78E1CBBEBDD00B5590F /* MyHeadView.xib */; };
+		8B9EF7931CBBEBE800B5590F /* RightCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B9EF7921CBBEBE800B5590F /* RightCollectionView.m */; };
+		8B9EF7981CBBEBFB00B5590F /* HomeTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B9EF7951CBBEBFB00B5590F /* HomeTableViewCell.m */; };
+		8B9EF7991CBBEBFB00B5590F /* LeftTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B9EF7971CBBEBFB00B5590F /* LeftTableView.m */; };
+		8B9EF79B1CBBEC3900B5590F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B9EF79A1CBBEC3900B5590F /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,7 +47,6 @@
 		8B9EF7541CBBEB6400B5590F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		8B9EF7561CBBEB6400B5590F /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		8B9EF7571CBBEB6400B5590F /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		8B9EF75A1CBBEB6400B5590F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8B9EF75C1CBBEB6400B5590F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8B9EF75F1CBBEB6400B5590F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8B9EF7611CBBEB6400B5590F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -51,6 +56,20 @@
 		8B9EF7711CBBEB6400B5590F /* LLHomeShowViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LLHomeShowViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B9EF7751CBBEB6400B5590F /* LLHomeShowViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LLHomeShowViewUITests.m; sourceTree = "<group>"; };
 		8B9EF7771CBBEB6400B5590F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8B9EF7871CBBEBD100B5590F /* config.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = config.h; sourceTree = "<group>"; };
+		8B9EF7881CBBEBD100B5590F /* LxDBAnything.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LxDBAnything.h; sourceTree = "<group>"; };
+		8B9EF7891CBBEBD100B5590F /* UIView+Frame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Frame.h"; sourceTree = "<group>"; };
+		8B9EF78A1CBBEBD100B5590F /* UIView+Frame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Frame.m"; sourceTree = "<group>"; };
+		8B9EF78C1CBBEBDD00B5590F /* MyHeadView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyHeadView.h; sourceTree = "<group>"; };
+		8B9EF78D1CBBEBDD00B5590F /* MyHeadView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyHeadView.m; sourceTree = "<group>"; };
+		8B9EF78E1CBBEBDD00B5590F /* MyHeadView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MyHeadView.xib; sourceTree = "<group>"; };
+		8B9EF7911CBBEBE800B5590F /* RightCollectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RightCollectionView.h; sourceTree = "<group>"; };
+		8B9EF7921CBBEBE800B5590F /* RightCollectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RightCollectionView.m; sourceTree = "<group>"; };
+		8B9EF7941CBBEBFB00B5590F /* HomeTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeTableViewCell.h; sourceTree = "<group>"; };
+		8B9EF7951CBBEBFB00B5590F /* HomeTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeTableViewCell.m; sourceTree = "<group>"; };
+		8B9EF7961CBBEBFB00B5590F /* LeftTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LeftTableView.h; sourceTree = "<group>"; };
+		8B9EF7971CBBEBFB00B5590F /* LeftTableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LeftTableView.m; sourceTree = "<group>"; };
+		8B9EF79A1CBBEC3900B5590F /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,14 +120,12 @@
 		8B9EF74F1CBBEB6400B5590F /* LLHomeShowView */ = {
 			isa = PBXGroup;
 			children = (
-				8B9EF7531CBBEB6400B5590F /* AppDelegate.h */,
-				8B9EF7541CBBEB6400B5590F /* AppDelegate.m */,
+				8B9EF7831CBBEB9A00B5590F /* Vender */,
+				8B9EF7851CBBEBA600B5590F /* Views */,
 				8B9EF7561CBBEB6400B5590F /* ViewController.h */,
 				8B9EF7571CBBEB6400B5590F /* ViewController.m */,
-				8B9EF7591CBBEB6400B5590F /* Main.storyboard */,
-				8B9EF75C1CBBEB6400B5590F /* Assets.xcassets */,
-				8B9EF75E1CBBEB6400B5590F /* LaunchScreen.storyboard */,
-				8B9EF7611CBBEB6400B5590F /* Info.plist */,
+				8B9EF79A1CBBEC3900B5590F /* Main.storyboard */,
+				8B9EF79C1CBBEC5000B5590F /* Others */,
 				8B9EF7501CBBEB6400B5590F /* Supporting Files */,
 			);
 			path = LLHomeShowView;
@@ -138,6 +155,53 @@
 				8B9EF7771CBBEB6400B5590F /* Info.plist */,
 			);
 			path = LLHomeShowViewUITests;
+			sourceTree = "<group>";
+		};
+		8B9EF7831CBBEB9A00B5590F /* Vender */ = {
+			isa = PBXGroup;
+			children = (
+				8B9EF7871CBBEBD100B5590F /* config.h */,
+				8B9EF7881CBBEBD100B5590F /* LxDBAnything.h */,
+				8B9EF7891CBBEBD100B5590F /* UIView+Frame.h */,
+				8B9EF78A1CBBEBD100B5590F /* UIView+Frame.m */,
+			);
+			name = Vender;
+			sourceTree = "<group>";
+		};
+		8B9EF7851CBBEBA600B5590F /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				8B9EF78C1CBBEBDD00B5590F /* MyHeadView.h */,
+				8B9EF78D1CBBEBDD00B5590F /* MyHeadView.m */,
+				8B9EF78E1CBBEBDD00B5590F /* MyHeadView.xib */,
+				8B9EF7861CBBEBB000B5590F /* Cell */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		8B9EF7861CBBEBB000B5590F /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				8B9EF7941CBBEBFB00B5590F /* HomeTableViewCell.h */,
+				8B9EF7951CBBEBFB00B5590F /* HomeTableViewCell.m */,
+				8B9EF7961CBBEBFB00B5590F /* LeftTableView.h */,
+				8B9EF7971CBBEBFB00B5590F /* LeftTableView.m */,
+				8B9EF7911CBBEBE800B5590F /* RightCollectionView.h */,
+				8B9EF7921CBBEBE800B5590F /* RightCollectionView.m */,
+			);
+			name = Cell;
+			sourceTree = "<group>";
+		};
+		8B9EF79C1CBBEC5000B5590F /* Others */ = {
+			isa = PBXGroup;
+			children = (
+				8B9EF7531CBBEB6400B5590F /* AppDelegate.h */,
+				8B9EF7541CBBEB6400B5590F /* AppDelegate.m */,
+				8B9EF75C1CBBEB6400B5590F /* Assets.xcassets */,
+				8B9EF75E1CBBEB6400B5590F /* LaunchScreen.storyboard */,
+				8B9EF7611CBBEB6400B5590F /* Info.plist */,
+			);
+			name = Others;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -248,7 +312,8 @@
 			files = (
 				8B9EF7601CBBEB6400B5590F /* LaunchScreen.storyboard in Resources */,
 				8B9EF75D1CBBEB6400B5590F /* Assets.xcassets in Resources */,
-				8B9EF75B1CBBEB6400B5590F /* Main.storyboard in Resources */,
+				8B9EF7901CBBEBDD00B5590F /* MyHeadView.xib in Resources */,
+				8B9EF79B1CBBEC3900B5590F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,9 +338,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B9EF7991CBBEBFB00B5590F /* LeftTableView.m in Sources */,
+				8B9EF78B1CBBEBD100B5590F /* UIView+Frame.m in Sources */,
 				8B9EF7581CBBEB6400B5590F /* ViewController.m in Sources */,
 				8B9EF7551CBBEB6400B5590F /* AppDelegate.m in Sources */,
 				8B9EF7521CBBEB6400B5590F /* main.m in Sources */,
+				8B9EF7981CBBEBFB00B5590F /* HomeTableViewCell.m in Sources */,
+				8B9EF78F1CBBEBDD00B5590F /* MyHeadView.m in Sources */,
+				8B9EF7931CBBEBE800B5590F /* RightCollectionView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -311,14 +381,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		8B9EF7591CBBEB6400B5590F /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				8B9EF75A1CBBEB6400B5590F /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		8B9EF75E1CBBEB6400B5590F /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -419,6 +481,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = LLHomeShowView/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lauren.LLHomeShowView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -430,6 +493,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = LLHomeShowView/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lauren.LLHomeShowView;
 				PRODUCT_NAME = "$(TARGET_NAME)";

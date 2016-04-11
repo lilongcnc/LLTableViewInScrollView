@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "35DE2F88441F80EA04E206D83B76E5CFEBA6C4AD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "35DE2F88441F80EA04E206D83B76E5CFEBA6C4AD" : 0,
+    "E955CF6293378C90EB78E5A094E275F3212B559C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "31553794-D44F-4BB7-91F9-6AF2AB5C65DB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "35DE2F88441F80EA04E206D83B76E5CFEBA6C4AD" : "LLHomeShowView\/",
+    "E955CF6293378C90EB78E5A094E275F3212B559C" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LLHomeShowView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LLHomeShowView\/LLHomeShowView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lilongcnc\/LLHomeShowView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "35DE2F88441F80EA04E206D83B76E5CFEBA6C4AD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:lilongcnc\/TestDemo0322.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E955CF6293378C90EB78E5A094E275F3212B559C"
+    }
+  ]
+}
