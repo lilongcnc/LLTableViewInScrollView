@@ -150,7 +150,7 @@
 //    NSLog(@"%s",__FUNCTION__);
     
     
-    _myADView.frame = CGRectMake(0, 0, LLkeyWindowsSize.width, 100);
+    _myADView.frame = CGRectMake(0, 0, LLkeyWindowsSize.width, 180);
     _leftMenuBtn.frame = CGRectMake(0, _myADView.buttom, LLkeyWindowsSize.width*0.5, 40);
     _rightMenuBtn.frame = CGRectMake(_leftMenuBtn.right, _myADView.buttom, LLkeyWindowsSize.width*0.5, 40);
     LxDBAnyVar(_leftMenuBtn.frame);
