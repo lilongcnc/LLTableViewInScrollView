@@ -5,7 +5,7 @@
 
 
 ```
-1. 实现底部 scrollView 的子类和北京 scrollView的上下滑动不影响
+1. 实现底部 scrollView 的子类和背景 scrollView的上下滑动不影响
 2. 底部正文联动区域实现,左右滑动
 ```
 ###实现版本的效果
