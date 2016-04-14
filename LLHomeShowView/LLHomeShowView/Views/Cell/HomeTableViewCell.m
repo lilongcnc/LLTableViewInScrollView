@@ -219,7 +219,7 @@
     LxDBAnyVar(viewHeight);
     viewHeight += CGRectGetMaxY(_leftMenuBtn.frame);
     viewHeight = viewHeight< LLkeyWindowsSize.height?LLkeyWindowsSize.height:viewHeight;
-    _leftTableViewCellHeight = viewHeight;
+    _tableViewCellHeight = viewHeight;
     
     _myScrollView.frame = CGRectMake(0, _leftMenuBtn.buttom, LLkeyWindowsSize.width, viewHeight);
     _myScrollView.contentSize = CGSizeMake(LLkeyWindowsSize.width*2, viewHeight);

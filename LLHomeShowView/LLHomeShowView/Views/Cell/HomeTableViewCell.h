@@ -28,6 +28,6 @@
 
 @property (nonatomic,assign) id<HomeTableViewCellDelegate> delegate;
 
-@property (nonatomic,assign) CGFloat leftTableViewCellHeight;
+@property (nonatomic,assign) CGFloat tableViewCellHeight;
 
 @end
