@@ -1,4 +1,5 @@
-[![star this repo](http://github-svg-buttons.herokuapp.com/star.svg?user=lilongcnc&repo=LLHomeShowView&style=flat&background=1081C1)](http://github.com/Urinx/WeixinBot) [![fork this repo](http://github-svg-buttons.herokuapp.com/fork.svg?user=lilongcnc&repo=LLHomeShowView&style=flat&background=1081C1)](http://github.com/lilongcnc/LLHomeShowView/fork)  
+[![star this repo](http://github-svg-buttons.herokuapp.com/star.svg?user=lilongcnc&repo=LLHomeShowView&style=flat&background=1081C1)](https://github.com/lilongcnc/LLHomeShowView)     [![fork this repo](http://github-svg-buttons.herokuapp.com/fork.svg?user=lilongcnc&repo=LLHomeShowView&style=flat&background=1081C1)](https://github.com/lilongcnc/LLHomeShowView/fork)  
+
 
 ###你可以 Get 到
 去年在公司项目里边要求实现的一个首页效果.最开始的时候用了两个 scrollView 嵌套,但是实现效果并不好.因为赶工期就在底部的联动的 scrollView的区域盖了一块 coverView,但是这样只能近似于淘宝商品详情的实现.
